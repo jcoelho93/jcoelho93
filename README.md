@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**jcoelho93/jcoelho93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Bitcoin 
 
-Here are some ideas to get you started:
+```python
+if bitcoin.is_up():
+```
+![love bitcoin](https://img.shields.io/badge/bitcoin-love%20it-ff69b4?logo=bitcoin&style=for-the-badge)
+```python
+else:
+```
+![hate bitcoin](https://img.shields.io/badge/bitcoin-hate%20it-critical?logo=bitcoin&style=for-the-badge)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My personal website
+
+![personal-website](https://img.shields.io/badge/Personal%20Website-jcoelho93.netlify.com-blue?logo=netlify&style=for-the-badge&link=&link=http://jcoelho93.netlify.com)
