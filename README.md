@@ -1,5 +1,5 @@
 ### Hi there 👋
-elasticsearch
+
 ### My fav tech stack
 
 ![python](https://img.shields.io/badge/python-blue?logo=python&logoColor=yellow)
