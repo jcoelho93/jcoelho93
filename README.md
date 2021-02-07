@@ -2,20 +2,20 @@
 
 ### My fav tech stack
 
-![python](https://img.shields.io/badge/python-blue?logo=python&logoColor=yellow)
-![java](https://img.shields.io/badge/-java-red?logo=java)
+![python](https://img.shields.io/badge/python-grey?logo=python&logoColor=yellow)
+![java](https://img.shields.io/badge/-java-grey?logo=java&logoColor=red)
 ![docker](https://img.shields.io/badge/-docker-grey?logo=docker)
 ![gitlab](https://img.shields.io/badge/-gitlab-grey?logo=gitlab)
-![ansible](https://img.shields.io/badge/-ansible-grey?logo=ansible)
-![vscode](https://img.shields.io/badge/-vscode-blue?logo=visual%20studio%20code)
-![elasticsearch](https://img.shields.io/badge/-elastic%20search-yellow?logo=elasticsearch)
-![sonarqube](https://img.shields.io/badge/-sonarqube-white?logo=sonarqube)
-![maven](https://img.shields.io/badge/-maven-green?logo=apache%20maven)
-![kubernetes](https://img.shields.io/badge/-kubernetes-white?logo=kubernetes)
-![ubuntu](https://img.shields.io/badge/-ubuntu-lightgrey?logo=ubuntu)
+![ansible](https://img.shields.io/badge/-ansible-grey?logo=ansible&logoColor=black)
+![vscode](https://img.shields.io/badge/-vscode-grey?logo=visual%20studio%20code&logoColor=blue)
+![elasticsearch](https://img.shields.io/badge/-elasticsearch-grey?logo=elasticsearch&logoColor=yellow)
+![sonarqube](https://img.shields.io/badge/-sonarqube-grey?logo=sonarqube)
+![maven](https://img.shields.io/badge/-maven-grey?logo=apache%20maven&logoColor=green)
+![kubernetes](https://img.shields.io/badge/-kubernetes-grey?logo=kubernetes)
+![ubuntu](https://img.shields.io/badge/-ubuntu-grey?logo=ubuntu)
 ![postman](https://img.shields.io/badge/-postman-grey?logo=postman)
-![postgres](https://img.shields.io/badge/-postgresql-blue?logo=postgresql)
-![firefox](https://img.shields.io/badge/-firefox-blue?logo=firefox)
+![postgres](https://img.shields.io/badge/-postgresql-grey?logo=postgresql&logoColor=blue)
+![firefox](https://img.shields.io/badge/-firefox-grey?logo=firefox)
 
 ### Bitcoin 
 
