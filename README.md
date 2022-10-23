@@ -2,6 +2,7 @@
 
 ### My fav tech stack
 
+![python](https://img.shields.io/badge/AWS-grey?logo=cloud)
 ![python](https://img.shields.io/badge/python-grey?logo=python&logoColor=yellow)
 ![java](https://img.shields.io/badge/-java-grey?logo=java&logoColor=red)
 ![docker](https://img.shields.io/badge/-docker-grey?logo=docker)
@@ -17,17 +18,11 @@
 ![postgres](https://img.shields.io/badge/-postgresql-grey?logo=postgresql&logoColor=blue)
 ![firefox](https://img.shields.io/badge/-firefox-grey?logo=firefox)
 
-### Bitcoin 
+### Certifications
 
-```python
-if bitcoin.is_up():
-```
-![love bitcoin](https://img.shields.io/badge/bitcoin-love%20it-ff69b4?logo=bitcoin&style=for-the-badge)
-```python
-else:
-```
-![hate bitcoin](https://img.shields.io/badge/bitcoin-hate%20it-critical?logo=bitcoin&style=for-the-badge)
-
+![AWS CSA](https://images.credly.com/size/186x186/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)
+![Hashicorp TCA](https://images.credly.com/size/186x186/images/99289602-861e-4929-8277-773e63a2fa6f/image.png)
+![Kubernetes CKAD](https://images.credly.com/size/186x186/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)
 ### My personal website
 
 ![personal-website](https://img.shields.io/badge/Personal%20Website-jcoelho93.netlify.com-blue?logo=netlify&style=for-the-badge&link=&link=http://jcoelho93.netlify.com)
