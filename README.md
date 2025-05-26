@@ -22,8 +22,8 @@
 
 ![AWS CSA](https://images.credly.com/size/186x186/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)
 ![Hashicorp TCA](https://images.credly.com/size/186x186/images/99289602-861e-4929-8277-773e63a2fa6f/image.png)
-![Kubernetes CKAD](https://images.credly.com/size/186x186/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)
-![CSA CCSK](https://images.credly.com/size/186x186/images/25ba8143-ac0a-413c-8c66-01c9edc4a80f/CCSK-v4-Credly-badge.png)
+![Kubernetes CKAD](https://images.credly.com/size/186x186/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob)
+![CSA CCSK](https://images.credly.com/size/186x186/images/7495098d-c8c3-41a8-a81a-772cdc7e6a95/image.png)
 
 ### My personal website
 
