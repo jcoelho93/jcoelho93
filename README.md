@@ -9,6 +9,9 @@ Here's the open source contributions I'm most proud of:
 5. [terraform-provider-gitlab](https://gitlab.com/gitlab-org/terraform-provider-gitlab/-/commits/main?search=jcoelho) - Multiple contributions to the Terraform GitLab provider
 6. [python-trading212](https://github.com/jcoelho93/python-trading212) - A client for Trading212 API
 
+![jcoelho93 Github stats](https://github-readme-stats.vercel.app/api?username=jcoelho93&show_icons=true)
+![jcoelho93 Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jcoelho93&layout=compact&hide=php,java,css,html,typescript&size_weight=0.7&count_weight=0.3)
+
 ### My Certifications
 
 ![AWS CSA](https://images.credly.com/size/140x140/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)
