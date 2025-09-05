@@ -18,6 +18,7 @@ Here's the open source contributions I'm most proud of:
 ![Hashicorp TCA](https://images.credly.com/size/140x140/images/99289602-861e-4929-8277-773e63a2fa6f/image.png)
 ![Kubernetes CKAD](https://images.credly.com/size/140x140/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob)
 ![CSA CCSK](https://images.credly.com/size/140x140/images/7495098d-c8c3-41a8-a81a-772cdc7e6a95/image.png)
+![ClickHouse Database Associate](https://images.credly.com/size/140x140/images/095c660a-fee3-4fcb-9d0f-04e16b26d6dd/blob)
 
 ### My personal website
 
